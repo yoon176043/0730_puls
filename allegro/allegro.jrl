@@ -1,244 +1,94 @@
 \t (00:00:00) allegro 17.2 S052 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Tue Jul 30 17:12:22 2019
-\t (00:00:00)         Host=USER-PC User=user Pid=5980 CPUs=4
+\t (00:00:00)     Journal start - Tue Jul 30 17:27:17 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=1584 CPUs=4
 \t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
 \t (00:00:00) 
    (00:00:00) Loading axlcore.cxt 
 \t (00:00:07) Opening existing design...
 \i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged PULSE_MODULATION
 \d (00:00:07) Design opened: C:/Users/user/Desktop/work/0730/allegro/PULSE_MODULATION.brd
-\i (00:00:07) trapsize 18470
-\i (00:00:07) trapsize 20232
-\i (00:00:08) trapsize 18470
-\i (00:00:08) trapsize 10007
-\i (00:00:08) trapsize 10399
-\i (00:00:08) trapsize 10427
+\i (00:00:07) trapsize 8617
+\i (00:00:07) trapsize 8857
+\i (00:00:07) trapsize 8617
+\i (00:00:07) trapsize 6816
+\i (00:00:07) trapsize 6935
+\i (00:00:07) trapsize 6935
+\i (00:00:08) text edit 
 \i (00:00:08) generaledit 
-\i (00:00:15) artwork 
-\i (00:00:22) setwindow form.film_control
-\i (00:00:22) FORM film_control filmtree  ETCH/TOP TOP 
-\i (00:00:24) FORM film_control filmtree popup Add ETCH/TOP TOP 
-\i (00:00:26) setwindow form.scl_browser
-\i (00:00:26) FORM scl_browser treelist  'BOARD GEOMETRY' 
-\i (00:00:30) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:00:30) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:00:31) FORM scl_browser done  
-\i (00:00:32) setwindow form.film_control
-\i (00:00:32) FORM film_control filmtree  TOP 
-\i (00:00:36) FORM film_control ok  
-\i (00:00:36) setwindow pcb
-\i (00:00:36) generaledit 
-\i (00:00:37) trapsize 4656
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 41.5428 13.9704
-\i (00:00:38) trapsize 9312
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 111.4624 75.5198
-\i (00:00:38) trapsize 13871
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 189.4055 133.9234
-\i (00:00:38) trapsize 13871
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 188.5733 129.4848
-\i (00:00:38) trapsize 13871
-\i (00:00:38) zoom out 1 
-\i (00:00:38) setwindow pcb
-\i (00:00:38) zoom out 187.7411 123.9366
-\i (00:00:38) trapsize 13871
-\i (00:00:47) ncdrill legend 
-   (00:00:47) Loading mfg.cxt 
-\i (00:00:49) setwindow form.nc_drilllegend
-\i (00:00:49) FORM nc_drilllegend done  
-\i (00:00:51) setwindow pcb
-\i (00:00:51) pick grid 104.2404 22.1268
-\t (00:00:51) last pick:  104.1400 22.2250
-\t (00:00:51) NC Drill Legend generation successful
-\i (00:00:52) generaledit 
-\i (00:00:53) zoom in 1 
-\i (00:00:53) setwindow pcb
-\i (00:00:53) zoom in 110.0660 3.5403
-\i (00:00:53) trapsize 6935
-\i (00:00:53) zoom in 1 
-\i (00:00:53) setwindow pcb
-\i (00:00:53) zoom in 105.7979 3.5404
-\i (00:00:53) trapsize 3468
-\i (00:00:54) zoom out 1 
-\i (00:00:54) setwindow pcb
-\i (00:00:54) zoom out 109.1269 7.5628
-\i (00:00:54) trapsize 6935
-\i (00:00:54) zoom out 1 
-\i (00:00:54) setwindow pcb
-\i (00:00:54) zoom out 110.3752 28.5074
-\i (00:00:54) trapsize 13871
-\i (00:01:01) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_t"
-\i (00:01:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
-\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
-\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DrillDraw"
-\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_b"
-\i (00:01:06) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_t"
-\i (00:01:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_b"
-\i (00:01:07) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_t"
-\i (00:01:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Sold_b"
-\i (00:01:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Sold_t"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Sold_b"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_t"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_b"
-\i (00:01:09) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_t"
-\i (00:01:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_b"
-\i (00:01:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DrillDraw"
-\i (00:01:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
-\i (00:01:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
-\i (00:01:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged ------------------------
-\i (00:01:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
-\i (00:01:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
-\i (00:01:11) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DrillDraw"
-\i (00:01:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_b"
-\i (00:01:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Metal_t"
-\i (00:01:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_b"
-\i (00:01:13) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_t"
-\i (00:01:15) zoom in 1 
-\i (00:01:15) setwindow pcb
-\i (00:01:15) zoom in 245.4425 108.9564
-\i (00:01:15) trapsize 6935
-\i (00:01:16) zoom out 1 
-\i (00:01:16) setwindow pcb
-\i (00:01:16) zoom out 161.5574 88.9828
-\i (00:01:16) trapsize 13871
-\i (00:01:23) color192 
-\i (00:01:23) generaledit 
-\i (00:01:24) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
-\i (00:01:25) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
-\i (00:01:28) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
-\i (00:01:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
-\i (00:01:33) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:01:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:01:36) QtSignal CVDLayerTable VertHeader clickedCheckBox 17
-\i (00:01:36) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
-\i (00:01:41) QtSignal CVDLayerTable VertHeader clickedCheckBox 8
-\i (00:01:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
-\i (00:01:44) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:45) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:45) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:45) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:45) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:45) QtSignal ColorVisibilityDialog CVDApplyButton clicked
-\i (00:01:46) QtSignal ColorVisibilityDialog CVDOkButton clicked
-\i (00:01:51) artwork 
-\i (00:01:59) setwindow form.film_control
-\i (00:01:59) FORM film_control filmtree popup Add 'BOARD GEOMETRY/DESIGN_OUTLINE' DrillDraw 
-\i (00:02:25) setwindow form.scl_browser
-\i (00:02:25) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
-\i (00:02:25) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
-\i (00:02:29) FORM scl_browser treelist  MANUFACTURING 
-\i (00:02:30) FORM scl_browser treelist  'PACKAGE GEOMETRY' 
-\i (00:02:42) FORM scl_browser treelist  'RIGID FLEX' 
-\i (00:02:59) FORM scl_browser cancel  
-\i (00:03:01) setwindow pcb
-\i (00:03:01) pick grid 190.7926 105.0726
-\t (00:03:01) last pick:  190.5000 104.7750
-\i (00:03:05) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
-\i (00:03:10) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Silk_t"
-\i (00:03:16) setwindow form.film_control
-\i (00:03:16) FORM film_control filmtree  DrillDraw 
-\i (00:03:19) FORM film_control filmtree  Silk_t 
-\i (00:03:20) FORM film_control filmtree popup Add Silk_t 
-\i (00:03:23) fillin "menu_cancel"
-\i (00:03:24) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' Silk_t 
-\i (00:03:25) FORM film_control filmtree popup Add 'BOARD GEOMETRY/SILKSCREEN_TOP' Silk_t 
-\i (00:03:33) setwindow form.scl_browser
-\i (00:03:33) FORM scl_browser treelist 'MULTISEL YES' DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:33) FORM scl_browser treelist  DESIGN_OUTLINE 'BOARD GEOMETRY' 
-\i (00:03:34) FORM scl_browser treelist 'MULTISEL YES' DIMENSION 'BOARD GEOMETRY' 
-\i (00:03:34) FORM scl_browser treelist  DIMENSION 'BOARD GEOMETRY' 
-\i (00:03:36) FORM scl_browser done  
-\i (00:03:40) setwindow form.film_control
-\i (00:03:40) FORM film_control filmtree  Silk_t 
-\i (00:03:48) FORM film_control ok  
-\i (00:03:48) setwindow pcb
-\i (00:03:48) generaledit 
-\i (00:03:58) artwork 
-\i (00:04:13) setwindow form.film_control
-\i (00:04:13) FORM film_control cancel  
-\i (00:04:13) setwindow pcb
-\i (00:04:13) generaledit 
-\i (00:04:16) ncdrill legend 
-\i (00:04:22) setwindow form.nc_drilllegend
-\i (00:04:22) FORM nc_drilllegend cancel  
-\i (00:04:22) setwindow pcb
-\i (00:04:22) generaledit 
-\i (00:04:26) artwork 
-\i (00:04:28) setwindow form.film_control
-\i (00:04:28) FORM film_control filmtree 'MULTISEL YES' TOP 
-\i (00:04:28) FORM film_control filmtree  TOP 
-\i (00:04:29) FORM film_control filmtree 'MULTISEL NO' TOP 
-\i (00:04:32) FORM film_control filmtree  'BOARD GEOMETRY/DESIGN_OUTLINE' Silk_t 
-\i (00:04:33) FORM film_control filmtree  'BOARD GEOMETRY/SILKSCREEN_TOP' Silk_t 
-\i (00:04:35) FORM film_control filmtree popup Add 'BOARD GEOMETRY/DIMENSION' Silk_t 
-\i (00:06:06) setwindow form.scl_browser
-\i (00:06:06) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:06) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:11) FORM scl_browser treelist 'MULTISEL YES' NCDRILL_LEGEND MANUFACTURING 
-\i (00:06:11) FORM scl_browser treelist  NCDRILL_LEGEND MANUFACTURING 
-\i (00:06:11) FORM scl_browser treelist 'MULTISEL NO' NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:11) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:12) FORM scl_browser treelist 'MULTISEL NO' NCDRILL_LEGEND MANUFACTURING 
-\i (00:06:12) FORM scl_browser treelist  NCDRILL_LEGEND MANUFACTURING 
-\i (00:06:14) FORM scl_browser treelist 'MULTISEL YES' NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:14) FORM scl_browser treelist  NCLEGEND-1-2 MANUFACTURING 
-\i (00:06:20) FORM scl_browser done  
-\i (00:06:31) setwindow form.film_control
-\i (00:06:31) FORM film_control select_all  
-\i (00:06:32) FORM film_control create  
-\i (00:06:33) fillin yes 
-\t (00:06:33) Checking db records
-\t (00:06:33)     checking for orphans...
-\t (00:06:33)     Checked 100 percent
-\t (00:06:33) Done dbdoctor.
-\t (00:06:33) Starting Create artwork films...
-\w (00:06:34) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:06:35) Artwork generated with warnings.
-\i (00:06:36) setwindow pcb
-\i (00:06:36) setwindow text
-\i (00:06:36) close
-\i (00:06:40) setwindow form.film_control
-\i (00:06:40) FORM film_control mirror YES 
-\i (00:07:29) FORM film_control load  
-\i (00:07:37) fillin "menu_cancel"
-\i (00:07:43) FORM film_control filmtree  Silk_t 
-\i (00:07:44) FORM film_control general_parameters  
-\i (00:07:45) FORM film_control film_control  
-\i (00:07:52) FORM film_control domain_setting  
-\i (00:07:55) setwindow form.film_domain
-\i (00:07:55) FORM film_domain close  
-\i (00:07:59) setwindow form.film_control
-\i (00:07:59) FORM film_control mirror YES 
-\i (00:08:06) FORM film_control apertures  
-\i (00:08:07) setwindow form.apt_wheels
-\i (00:08:07) FORM apt_wheels cancel  
-\i (00:08:10) setwindow form.film_control
-\i (00:08:10) FORM film_control create  
-\i (00:08:12) fillin yes 
-\w (00:08:12) No film records selected.
-\i (00:08:16) FORM film_control full_contact YES 
-\i (00:08:17) FORM film_control suppress_unconnect YES 
-\i (00:08:22) FORM film_control ok  
-\i (00:08:22) setwindow pcb
-\i (00:08:22) generaledit 
-\i (00:08:25) artwork 
-\i (00:08:26) setwindow form.film_control
-\i (00:08:26) FORM film_control select_all  
-\i (00:08:28) FORM film_control full_contact NO 
-\i (00:08:29) FORM film_control suppress_unconnect NO 
-\i (00:08:31) FORM film_control create  
-\i (00:08:32) fillin yes 
-\t (00:08:32) Checking db records
-\t (00:08:32)     checking for orphans...
-\t (00:08:32)     Checked 100 percent
-\t (00:08:32) Done dbdoctor.
-\t (00:08:32) Starting Create artwork films...
-\w (00:08:33) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
-\w (00:08:34) Artwork generated with warnings.
+\i (00:00:16) pick grid 155.4228 48.6196
+\t (00:00:16) last pick:  155.5750 48.8950
+\i (00:02:39) change 
+\i (00:03:03) pick grid 21.8494 6.5919
+\t (00:03:03) last pick:  21.5900 6.3500
+\i (00:03:37) setwindow form.mini
+\i (00:03:37) FORM mini text_block 6 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) drag_start grid -5.6142 73.1705
+\i (00:03:40) drag_stop 104.3792 0.4888
+\e (00:03:41) ERROR(SPMHGE-551): Text on this class cannot be changed to another class.
+\i (00:03:42) drag_start grid 96.7504 4.5113
+\i (00:03:42) drag_stop 14.0819 62.3515
+\e (00:03:42) ERROR(SPMHGE-551): Text on this class cannot be changed to another class.
+\i (00:03:43) pick grid 19.9076 55.8323
+\t (00:03:43) last pick:  19.6850 55.8800
+\i (00:03:43) drag_start grid 8.6724 60.8257
+\i (00:03:43) drag_stop 27.2590 51.5324
+\e (00:03:43) ERROR(SPMHGE-551): Text on this class cannot be changed to another class.
+\i (00:03:44) drag_start grid 8.5337 65.1256
+\i (00:03:44) drag_stop 28.5073 50.9776
+\e (00:03:44) ERROR(SPMHGE-551): Text on this class cannot be changed to another class.
+\i (00:04:17) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out 78.4413 56.6645
+\i (00:04:19) trapsize 13834
+\i (00:04:19) zoom out 1 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) zoom out 134.5455 93.5968
+\i (00:04:19) trapsize 13834
+\i (00:04:20) zoom in 1 
+\i (00:04:20) setwindow pcb
+\i (00:04:20) zoom in 18.6166 67.8656
+\i (00:04:20) trapsize 6917
+\i (00:04:21) zoom out 1 
+\i (00:04:21) setwindow pcb
+\i (00:04:21) zoom out 47.2530 50.5731
+\i (00:04:21) trapsize 13834
+\i (00:05:14) color192 
+\i (00:05:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry
+\i (00:06:01) QtSignal CVDLayerTable VertHeader clickedCheckBox 11
+\i (00:06:01) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 11 0
+\i (00:06:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:06:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:06:10) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox 4 0
+\i (00:06:10) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 4 0
+\i (00:06:10) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:06:14) drag_start grid 116.2846 20.5534
+\i (00:06:14) drag_stop 119.3281 20.0000
+\i (00:06:18) QtSignal ColorVisibilityDialog CVDApplyButton clicked
+\i (00:06:18) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:06:19) pick grid 107.1542 13.6364
+\t (00:06:19) last pick:  107.3150 13.3350
+\t (00:06:19) No DRC errors detected.
+\t (00:06:19) Changed 1 items out of 1 items found.
+\i (00:06:21) pick grid 157.5099 31.8972
+\t (00:06:21) last pick:  157.4800 31.7500
+\i (00:06:23) delete 
+\i (00:06:24) move 
+\t (00:06:24) Select element(s) to move.
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 112.6878 -17.0751
+\i (00:06:25) trapsize 6917
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in 107.9684 -14.4466
+\i (00:06:25) trapsize 3458
+\i (00:06:26) zoom out 1 
+\i (00:06:26) setwindow pcb
+\i (00:06:26) zoom out 118.5515 5.0594
+\i (00:06:26) trapsize 6917
+\i (00:06:27) pick grid 104.8558 14.8814
+\t (00:06:27) last pick:  104.7750 14.6050
+\t (00:06:27) last pick:  106.1720 13.5025
+\t (00:06:27) Pick new location f
