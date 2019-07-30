@@ -1,0 +1,64 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 12:14:31 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 13.2334, 88.1991)
+Text string '***' is not at a suitable location
+(location: 13.2334, 87.3101)
+Text string '***' is not at a suitable location
+(location: 98.4200, 74.5847)
+Text string '***' is not at a suitable location
+(location: 95.0926, 75.4737)
+Text string '***' is not at a suitable location
+(location: 95.0926, 74.5847)
+Text string '***' is not at a suitable location
+(location: 79.3192, 75.4737)
+Text string '***' is not at a suitable location
+(location: 79.3192, 74.5847)
+Text string '***' is not at a suitable location
+(location: 70.0228, 73.6576)
+Text string '***' is not at a suitable location
+(location: 59.0042, 72.3876)
+Text string '***' is not at a suitable location
+(location: 59.0042, 73.6576)
+Text string '***' is not at a suitable location
+(location: 22.4536, 72.7940)
+Text string '***' is not at a suitable location
+(location: 22.4536, 71.5240)
+Text string 'LF398_2_DIP8_3_LF398' is not at a suitable location
+(location: 12.0904, 75.3340)
+Text string 'LF398' is not at a suitable location
+(location: 12.0904, 74.0640)
+Text string '***' is not at a suitable location
+(location: 12.0904, 72.7940)
+
+Total Failures: 15
+
+Log End
+

@@ -1,0 +1,58 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 16:42:06 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'C:/Users/user/Desktop/work/0730/allegro/gerber' ...
+
+
+
+     'PULSE_MODULATION-1-2.drl' created for holes connecting TOP and BOTTOM
+     ----------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.6350    0.0000/  0.0000      PLATED          2
+            2.   0.7874    0.0000/  0.0000      PLATED          3
+            3.   0.9144    0.0000/  0.0000      PLATED         53
+            4.   1.0668    0.0000/  0.0000      PLATED         18
+            5.   3.1750    0.0000/  0.0000  NON_PLATED          4
+
+     ---- Total holes:                                         80
+
+     ---- Total head travel:              4.23 feet (1.29 meters)
+

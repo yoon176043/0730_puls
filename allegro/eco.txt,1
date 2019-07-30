@@ -1,0 +1,208 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5V          pins ADDED TO this new net
+                                 J1.2           R1.2           R1.3           
+                                 R4.1           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +15V         pins ADDED TO this new net
+                                 J1.1           U2.7           U3.1           
+                                 U5.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -15V         pins ADDED TO this new net
+                                 J1.4           U2.4           U3.4           
+                                 U4.4           U4.7           U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLOCK        pins ADDED TO this new net
+                                 U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C3.2           
+                                 J1.3           J2.3           J3.2           
+                                 R6.2           R10.1          R11.1          
+                                 U1.1           U2.2           U3.7           
+                                 U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01189       pins ADDED TO this new net
+                                 C2.2           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01313       pins ADDED TO this new net
+                                 C1.2           Q1.1           R5.1           
+                                 U1.6           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01331       pins ADDED TO this new net
+                                 R2.1           R5.2           U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01442       pins ADDED TO this new net
+                                 Q1.2           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01487       pins ADDED TO this new net
+                                 Q1.3           R4.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01674       pins ADDED TO this new net
+                                 R2.2           R3.1           R3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02221       pins ADDED TO this new net
+                                 J2.1           U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02233       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J2.2           U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02639       pins ADDED TO this new net
+                                 C3.1           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02775       pins ADDED TO this new net
+                                 R7.2           R9.2           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02843       pins ADDED TO this new net
+                                 R8.1           R11.2          U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03068       pins ADDED TO this new net
+                                 R8.2           U4.6           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03264       pins ADDED TO this new net
+                                 D1.2           U5.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03268       pins ADDED TO this new net
+                                 D1.1           J3.1           R10.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04697       pins ADDED TO this new net
+                                 R9.1           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIG_1        pins ADDED TO this new net
+                                 R3.3           R7.1           U2.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2SA1020_0_TO92_2SA1015
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ CON4_JUMPER4_CON4
+ C_CAP196_0.01UF
+ DIODE_DO35_1S1588
+ LF356_1_DIP8_3_LF356
+ LF398_2_DIP8_3_LF398
+ NE555_1_DIP8_3_NE555
+ RESISTOR VAR_RESADJ_5K
+ RESISTOR VAR_RESADJ_20K
+ R_RES400_6.2K
+ R_RES400_10K
+ R_RES400_39K
+ R_RES400_100K
+ R_RES400_560
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAP196_0.01UF       
+ C2                  C_CAP196_0.01UF       
+ C3                  C_CAP196_0.01UF       
+ D1                  DIODE_DO35_1S1588     
+ J1                  CON4_JUMPER4_CON4     
+ J2                  CON3_JUMPER3_CON3     
+ J3                  CON2_JUMPER2_CON2     
+ Q1                  2SA1020_0_TO92_2SA1015 
+ R1                  RESISTOR VAR_RESADJ_5K 
+ R2                  R_RES400_560          
+ R3                  RESISTOR VAR_RESADJ_20K 
+ R4                  R_RES400_39K          
+ R5                  R_RES400_6.2K         
+ R6                  R_RES400_100K         
+ R7                  R_RES400_10K          
+ R8                  R_RES400_10K          
+ R9                  R_RES400_10K          
+ R10                 R_RES400_10K          
+ R11                 R_RES400_10K          
+ U1                  NE555_1_DIP8_3_NE555  
+ U2                  LF356_1_DIP8_3_LF356  
+ U3                  LF398_2_DIP8_3_LF398  
+ U4                  LF356_1_DIP8_3_LF356  
+ U5                  LF356_1_DIP8_3_LF356  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ J1.4                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ U1.8                           PRIM_FILE      .\pstchip.dat
+ U2.4                           PRIM_FILE      .\pstchip.dat
+ U3.4                           PRIM_FILE      .\pstchip.dat
+ U4.4                           PRIM_FILE      .\pstchip.dat
+ U5.4                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/WORK/0730/allegro/PULSE_MODULATION.brd                |
+|                                                    Tue Jul 30 12:43:27 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      72                                        |
+|       Comp definitions added:      16                                        |
+|       Components added      :      24                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:     136                                        |
+|------------------------------------------------------------------------------|

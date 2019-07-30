@@ -1,0 +1,56 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 13:44:25 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0, 90, 180 and 270 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string '***' is not at a suitable location
+(location: 83.5292, 54.7079)
+Text string '***' is not at a suitable location
+(location: 78.1800, 52.7593)
+Text string '***' is not at a suitable location
+(location: 19.7608, 29.6528)
+Text string '***' is not at a suitable location
+(location: 57.6078, 32.2667)
+Text string '***' is not at a suitable location
+(location: 57.6078, 33.5367)
+Text string '***' is not at a suitable location
+(location: 27.0672, 5.4708)
+Text string '***' is not at a suitable location
+(location: 27.0672, 4.2008)
+Text string 'LF356_1_DIP8_3_LF356' is not at a suitable location
+(location: 76.5672, 9.4683)
+Text string 'LF356' is not at a suitable location
+(location: 76.5672, 8.1983)
+Text string '***' is not at a suitable location
+(location: 22.7472, 57.8383)
+Text string '***' is not at a suitable location
+(location: 22.7472, 56.5683)
+
+Total Failures: 11
+
+Log End
+

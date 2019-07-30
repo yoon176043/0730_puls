@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 13:25:46 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  Q1 / 2SA1020_0_TO92_2SA1015 / TO92 at (1.6993 72.2098)
+         Placed symbol:  R1 / RESISTOR VAR_RESADJ_5K / RESADJ at (9.7486 76.4008)
+         Placed symbol:  R3 / RESISTOR VAR_RESADJ_20K / RESADJ at (15.0318 76.4008)
+         Placed symbol:  C3 / C_CAP196_0.01UF / CAP196 at (19.2990 71.4732)
+         Placed symbol:  C2 / C_CAP196_0.01UF / CAP196 at (25.0902 71.4732)
+         Placed symbol:  D1 / DIODE_DO35_1S1588 / DO35 at (29.5098 71.4732)
+         Placed symbol:  C1 / C_CAP196_0.01UF / CAP196 at (33.7770 71.4732)
+         Placed symbol:  R11 / R_RES400_10K / RES400 at (38.6284 71.3843)
+         Placed symbol:  R10 / R_RES400_10K / RES400 at (41.9558 71.3843)
+         Placed symbol:  R8 / R_RES400_10K / RES400 at (45.2832 71.3843)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (48.6106 71.3843)
+         Placed symbol:  R2 / R_RES400_560 / RES400 at (51.9380 71.3843)
+         Placed symbol:  R7 / R_RES400_10K / RES400 at (55.2654 71.3843)
+         Placed symbol:  R4 / R_RES400_39K / RES400 at (58.5928 71.3843)
+         Placed symbol:  R5 / R_RES400_6.2K / RES400 at (61.9202 71.3843)
+         Placed symbol:  R6 / R_RES400_100K / RES400 at (65.2476 71.3843)
+
+
+Placed 16 of 16 applicable (16 total) symbols.
+
+-----------------------------------------------------------------------
+

@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 16:37:59 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	c:/cadence/spb_17.2/share/local/pcb/symbols
+	c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols
+	c:/cadence/spb_17.2/share/pcb/allegrolib/symbols
+	C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\MY_LIB\pakegesimbol\
+	C:\Cadence\SPB_16.5\tools\capture\My_lib\pakegesimbol\
+	C:\Users\user\Desktop\work\orcad\usb\avrusb500_r02\symbols\
+
+
+All Symbols Found
+
+Total symbols placed:      23 out of 24
+
+
+Symbol Found:  U4	- c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols/dip8_3.psm

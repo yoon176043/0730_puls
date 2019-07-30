@@ -1,0 +1,49 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : PULSE_MODULATION.brd                          )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Tue Jul 30 12:14:06 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+State: Placing on layer TOP
+
+         Placed symbol:  U3 / LF398_2_DIP8_3_LF398 / DIP8_3 at (1.4732 79.0932)
+         Placed symbol:  U1 / NE555_1_DIP8_3_NE555 / DIP8_3 at (11.8364 79.0932)
+ERROR:   Cannot place symbol:  U5 / LF356_1_DIP8_3_LF356 / DIP8_3
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  U2 / LF356_1_DIP8_3_LF356 / DIP8_3
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  U4 / LF356_1_DIP8_3_LF356 / DIP8_3
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  R1 / RESISTOR VAR_RESADJ_5K / RESADJ at (55.8292 76.4008)
+         Placed symbol:  Q1 / 2SA1020_0_TO92_2SA1015 / TO92 at (58.7985 72.2098)
+         Placed symbol:  R3 / RESISTOR VAR_RESADJ_20K / RESADJ at (66.8478 76.4008)
+         Placed symbol:  R11 / R_RES400_10K / RES400 at (70.1752 71.3843)
+         Placed symbol:  R10 / R_RES400_10K / RES400 at (73.5026 71.3843)
+         Placed symbol:  R8 / R_RES400_10K / RES400 at (76.8300 71.3843)
+         Placed symbol:  R7 / R_RES400_10K / RES400 at (80.1574 71.3843)
+         Placed symbol:  C3 / C_CAP196_0.01UF / CAP196 at (84.4246 71.4732)
+         Placed symbol:  R4 / R_RES400_39K / RES400 at (89.2760 71.3843)
+         Placed symbol:  R5 / R_RES400_6.2K / RES400 at (92.6034 71.3843)
+         Placed symbol:  R6 / R_RES400_100K / RES400 at (95.9308 71.3843)
+         Placed symbol:  C2 / C_CAP196_0.01UF / CAP196 at (2.9972 84.1986)
+         Placed symbol:  D1 / DIODE_DO35_1S1588 / DO35 at (7.4168 84.1986)
+         Placed symbol:  R2 / R_RES400_560 / RES400 at (10.7442 84.1097)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (14.0716 84.1097)
+         Placed symbol:  C1 / C_CAP196_0.01UF / CAP196 at (18.3388 84.1986)
+
+
+Placed 18 of 21 applicable (21 total) symbols.
+
+-----------------------------------------------------------------------
+
