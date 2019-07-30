@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PULSE_MODULATION.brd                          )
 (    Software Version : 17.2S052                                      )
-(    Date/Time        : Tue Jul 30 16:40:53 2019                      )
+(    Date/Time        : Tue Jul 30 17:03:15 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,27 +13,17 @@
 
 
 
-
- Can't open parameter file ... using default values:
-     DEVICE-TYPE        GERBER6X00
-     G-CODES            NO
-     STATIONS-PER-WHEEL 24
-     FILM-SIZE          24000 16000
-     COORDINATES        ABSOLUTE
-     OUTPUT-UNITS       INCHES
-     FORMAT             5.3
-     ABORT-ON-ERROR     abort film & continue
-     SUPPRESS-LEAD-ZEROES     YES
-     SUPPRESS-TRAIL-ZEROES    NO
-     OPTIMIZE           YES
-     SUPPRESS-EQUAL     YES
-     SCALE              1.0
-
-
-
- WARNING: Generating english output data from a metric database
- may cause slight roundoff error of coordinates in output file.
-
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
 
 
 
@@ -55,22 +45,22 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.01969                                  DARK 
-  CIRCLE     0.02500                                  DARK 
-  CIRCLE     0.03937                                  DARK 
-  CIRCLE     0.05500                                  DARK 
-  CIRCLE     0.06000                                  DARK 
-  CIRCLE     0.06500                                  DARK 
-  SQUARE     0.05500                     0.000 NO     DARK 
-  SQUARE     0.06000                     0.000 NO     DARK 
-  RECTANGLE  0.04000     x 0.06000      90.000 NO     DARK 
-  OBLONG     0.04000     x 0.06000      90.000 NO     DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.39700                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.39700                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
+  OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
-     TOP created with warnings
+     TOP created.
 
 
 ================================================================
@@ -91,22 +81,22 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.01969                                  DARK 
-  CIRCLE     0.02500                                  DARK 
-  CIRCLE     0.03937                                  DARK 
-  CIRCLE     0.05500                                  DARK 
-  CIRCLE     0.06000                                  DARK 
-  CIRCLE     0.06500                                  DARK 
-  SQUARE     0.05500                     0.000 NO     DARK 
-  SQUARE     0.06000                     0.000 NO     DARK 
-  RECTANGLE  0.04000     x 0.06000      90.000 NO     DARK 
-  OBLONG     0.04000     x 0.06000      90.000 NO     DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.39700                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.39700                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
+  OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
-     BOTTOM created with warnings
+     BOTTOM created.
 
 
 ================================================================
@@ -131,42 +121,35 @@
     WARNING: more than one pin class in film record
     WARNING: more than one via class in film record
     WARNING: more than one etch class in film record
-    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000) in MM
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
            ... ignored.
 
     WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
            ... ignored.
 
-    WARNING: text composed 0 width line found at (5.4064 22.8372) in MM
+    WARNING: text composed 0 width line found at (3.8100 32.3850)
            ... ignored.
 
     WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
            ... ignored.
 
-    WARNING: 0 width line found at (15.6210 31.7500) in MM
-           ... ignored.
-
-    WARNING: Multiple 0 width lines; all will be treated the same as the first.
-           ... ignored.
 
 
-
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00800                                  DARK 
-  CIRCLE     0.01575                                  DARK 
-  CIRCLE     0.01969                                  DARK 
-  CIRCLE     0.02500                                  DARK 
-  CIRCLE     0.03937                                  DARK 
-  CIRCLE     0.05500                                  DARK 
-  CIRCLE     0.06000                                  DARK 
-  CIRCLE     0.06500                                  DARK 
-  SQUARE     0.05500                     0.000 NO     DARK 
-  SQUARE     0.06000                     0.000 NO     DARK 
-  RECTANGLE  0.04000     x 0.06000      90.000 NO     DARK 
-  OBLONG     0.04000     x 0.06000      90.000 NO     DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.39700                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.39700                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
+  OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
      Design created with warnings
 
@@ -178,7 +161,7 @@
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.2000 MM
+  Undefined line width                0.2000
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -189,15 +172,14 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00787                                  DARK 
-  CIRCLE     0.00800                                  DARK 
-  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
 
-     Silk_t created with warnings
+     Silk_t created.
 
 
 ================================================================
@@ -218,13 +200,13 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.40000                                  DARK 
 
-     Silk_b created with warnings
+     Silk_b created.
 
 
 ================================================================
@@ -245,19 +227,19 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.07500                                  DARK 
-  CIRCLE     0.08000                                  DARK 
-  CIRCLE     0.14500                                  DARK 
-  SQUARE     0.07500                     0.000 NO     DARK 
-  SQUARE     0.08000                     0.000 NO     DARK 
-  RECTANGLE  0.04000     x 0.06000      90.000 NO     DARK 
-  OBLONG     0.04000     x 0.06000      90.000 NO     DARK 
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+  SQUARE     2.03200                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
+  OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
-     Sold_t created with warnings
+     Sold_t created.
 
 
 ================================================================
@@ -278,19 +260,19 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.07500                                  DARK 
-  CIRCLE     0.08000                                  DARK 
-  CIRCLE     0.14500                                  DARK 
-  SQUARE     0.07500                     0.000 NO     DARK 
-  SQUARE     0.08000                     0.000 NO     DARK 
-  RECTANGLE  0.04000     x 0.06000      90.000 NO     DARK 
-  OBLONG     0.04000     x 0.06000      90.000 NO     DARK 
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+  SQUARE     2.03200                     0.000 NO     DARK 
+  RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
+  OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
-     Sold_b created with warnings
+     Sold_b created.
 
 
 ================================================================
@@ -312,7 +294,7 @@
 
 
   APERTURES USED:  NONE
-     Metal_t created with warnings
+     Metal_t created.
 
 
 ================================================================
@@ -334,7 +316,7 @@
 
 
   APERTURES USED:  NONE
-     Metal_b created with warnings
+     Metal_b created.
 
 
 ================================================================
@@ -344,7 +326,7 @@
 
   FILM PARAMETERS :
   ---------------------------------------------------------
-  Undefined line width                0.1000 MM
+  Undefined line width                0.1000
   Mirror code                         NONE
   Rotate angle                        NONE
   Offset x:                           0.0000
@@ -355,26 +337,26 @@
 
 
 
-  APERTURES USED (UNIT = IN):
+  APERTURES USED:
   ---------------------------------------------------------
   TYPE       SIZE/NAME                   ROT   MIRROR MODE 
   ---------------------------------------------------------
-  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.10000                                  DARK 
 
-     DrillDraw created with warnings
+     DrillDraw created.
 
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created with warnings
-        BOTTOM created with warnings
+        TOP created.
+        BOTTOM created.
         Design created with warnings
-        Silk_t created with warnings
-        Silk_b created with warnings
-        Sold_t created with warnings
-        Sold_b created with warnings
-        Metal_t created with warnings
-        Metal_b created with warnings
-        DrillDraw created with warnings
+        Silk_t created.
+        Silk_b created.
+        Sold_t created.
+        Sold_b created.
+        Metal_t created.
+        Metal_b created.
+        DrillDraw created.
 
  ARTWORK had warnings

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : PULSE_MODULATION.brd                          )
 (    Software Version : 17.2S052                                      )
-(    Date/Time        : Tue Jul 30 17:03:15 2019                      )
+(    Date/Time        : Tue Jul 30 17:20:54 2019                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -35,13 +35,16 @@ Results from parameter file ...
   FILM PARAMETERS :
   ---------------------------------------------------------
   Undefined line width                0.0000
-  Mirror code                         NONE
+  Mirror code                         X
   Rotate angle                        NONE
   Offset x:                           0.0000
   Offset y:                           0.0000
   Plot negative                       NO
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
+           ... ignored.
 
 
 
@@ -60,7 +63,7 @@ Results from parameter file ...
   RECTANGLE  1.01600     x 1.52400      90.000 NO     DARK 
   OBLONG     1.01600     x 1.52400      90.000 NO     DARK 
 
-     TOP created.
+     TOP created with warnings
 
 
 ================================================================
@@ -71,7 +74,7 @@ Results from parameter file ...
   FILM PARAMETERS :
   ---------------------------------------------------------
   Undefined line width                0.0000
-  Mirror code                         NONE
+  Mirror code                         X
   Rotate angle                        NONE
   Offset x:                           0.0000
   Offset y:                           0.0000
@@ -121,9 +124,6 @@ Results from parameter file ...
     WARNING: more than one pin class in film record
     WARNING: more than one via class in film record
     WARNING: more than one etch class in film record
-    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 0.0000)
-           ... ignored.
-
     WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
            ... ignored.
 
@@ -170,6 +170,12 @@ Results from parameter file ...
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
+    WARNING: 0 width line found at (0.0000 72.5000)
+           ... using undefined line width of 0.2000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2000
+
 
 
   APERTURES USED:
@@ -179,7 +185,7 @@ Results from parameter file ...
   CIRCLE     0.20000                                  DARK 
   CIRCLE     0.40000                                  DARK 
 
-     Silk_t created.
+     Silk_t created with warnings
 
 
 ================================================================
@@ -348,10 +354,10 @@ Results from parameter file ...
 
 ------------------------------------------------------
  SUMMARY:
-        TOP created.
+        TOP created with warnings
         BOTTOM created.
         Design created with warnings
-        Silk_t created.
+        Silk_t created with warnings
         Silk_b created.
         Sold_t created.
         Sold_b created.
